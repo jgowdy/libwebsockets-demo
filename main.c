@@ -1,4 +1,5 @@
 #include <libwebsockets.h>
+#include <pthread/pthread.h>
 
 static struct
 {
